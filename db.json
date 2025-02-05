@@ -1,3 +1,14 @@
 {
-  "partyclubdata": "This is a demo version"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "partyclub": {
+    "partyclubdata": "This is a demo version"
+  }
 }
